@@ -9,23 +9,35 @@
   </head>
   <body>
     <header>
-      <h3>Pokedex</h3>
+      <a href="/"><h3>Pokedex</h3></a>
       <nav>
         <ul class="nav__links">
-          <li><a href="#">Pokedex</a></li>
-          <li><a href="#">Cadastro</a></li>
-          <li><a href="#">Detalhes</a></li>
+          <li><a href="/">Pokedex</a></li>
+          <li><a href="/cadastro">Register</a></li>
         </ul>
       </nav>
-      <a href="#" class="cta"><button>Contact</button></a>
     </header>
     <main>
-      <section>
-        <% pokedex.forEach((pokemon) => { %>
-        <div>
-          <h2><%= pokemon.nome %></h2>
-          <img src="<%= pokemon.imagem %>" alt="" />
-          <p><%= pokemon.tipo %></p>
+      <section id="card">
+        <% pokedex.forEach(element => { %>
+        <div class="card__container">
+          <a href="/detalhes/<%= element.id %> ">
+            <div class="card--header">
+              <span>ID: <%= element.id %> </span>
+              <span>Nº <%= element.num %> </span>
+            </div>
+            <div class="card--main">
+              <h4><%= element.name %></h4>
+              <img src="<%= element.img %>" alt="<%= element.img %>" />
+              <div class="card--main--info">
+                <span>Weight: <%= element.weight %></span>
+                <span>Height: <%= element.height %></span>
+              </div>
+            </div>
+            <div class="card--footer">
+              <span>Type: <%= element.type %></span>
+            </div>
+          </a>
         </div>
         <% }) %>
       </section>

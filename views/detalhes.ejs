@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/detalhes.css" />
+    <title>Pokedex</title>
+  </head>
+  <body>
+    <header>
+      <a href="/"><h3>Pokedex</h3></a>
+      <nav>
+        <ul class="nav__links">
+          <li><a href="/">Pokedex</a></li>
+          <li><a href="/cadastro">Register</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="card">
+        <% pokemonAtual.forEach(element => { %>
+        <div class="card__container">
+          <div class="card--header">
+            <span>ID: <%= element.id %> </span>
+            <span>Nº <%= element.num %> </span>
+          </div>
+          <div class="card--main">
+            <h4><%= element.name %></h4>
+            <img src="<%= element.img %>" alt="<%= element.img %>" />
+            <div class="card--main--info">
+              <span>Weight: <%= element.weight %></span>
+              <span>Height: <%= element.height %></span>
+            </div>
+          </div>
+          <div class="card--footer">
+            <span>TIPO: GRENN</span>
+          </div>
+        </div>
+        <% }) %>
+      </section>
+    </main>
+  </body>
+</html>

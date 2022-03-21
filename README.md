@@ -8,6 +8,8 @@
 
 ### Tópicos 
 
+- [Acesse online](#acesse-online)
+
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Funcionalidades](#funcionalidades)
@@ -19,6 +21,14 @@
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
 - [Desenvolvedores](#desenvolvedores)
+
+## Acesse online
+
+###
+
+https://projeto2-mod2.herokuapp.com/
+
+###
 
 ## Descrição do projeto 
 
@@ -55,16 +65,17 @@ Projeto de uma pokedex para desenvolver meus conhecimentos em , HTML, CSS, JavaS
 
 Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/en/).
-Além disto é bom ter um editor para trabahar com o código como [VScode](https://code.visualstudio.com/).
+Além disto é bom ter um editor para trabalhar com o código como [VScode](https://code.visualstudio.com/).
+E para estar rodando o código em um servidor local e o código rodar normalmente basta instalar a dependência do nodemon veja mais em https://www.npmjs.com/package/nodemon
 
-Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Flexbox)
+Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto2-Mod2)
 
 ## Abrir e rodar o projeto
 
 ```bash
  
 #Clone este repositório
-$ git clone <https://github.com/DevFernandoNunes/Flexbox.git>
+$ git clone <https://github.com/DevFernandoNunes/Projeto2-Mod2.git>
 
 #Abra o arquivo index.html que está na raiz da pasta principal após clonar o repositório.
  

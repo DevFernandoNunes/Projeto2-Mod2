@@ -41,6 +41,13 @@ Projeto de uma pokedex para desenvolver meus conhecimentos em , HTML, CSS, JavaS
 
    ### 
    
+<p align="justify">
+Detalhamento do pokemon
+   
+ ![image](https://user-images.githubusercontent.com/95880342/159196089-af8cec1e-a219-43f2-9d4c-88665fc1c922.png)
+
+
+   
 ## Funcionalidades
 
 :heavy_check_mark: `Funcionalidade 1:` Realizar de maneira agradável a apresentação de uma pokedex visando uma ótima experiêcia do usuário.

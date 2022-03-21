@@ -73,7 +73,7 @@ Detalhamento do pokemon
 Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VScode](https://code.visualstudio.com/).
-E para estar rodando o código em um servidor local e o código rodar normalmente basta instalar a dependência do nodemon veja mais em https://www.npmjs.com/package/nodemon
+E para estar rodando o código em um servidor local e o código rodar normalmente basta instalar a dependência do nodemon veja mais em https://www.npmjs.com/package/nodemon.
 
 Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto2-Mod2)
 

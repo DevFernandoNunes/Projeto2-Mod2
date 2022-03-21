@@ -24,9 +24,7 @@
 
 <p align="justify">
 Projeto de uma pokedex para desenvolver meus conhecimentos em , HTML, CSS, JavaScript Git.
-
-
-
+   
 ## Funcionalidades
 
 :heavy_check_mark: `Funcionalidade 1:` Realizar de maneira agradável a apresentação de um site institucional visando uma ótima experiêcia do usuário.

@@ -24,18 +24,30 @@
 
 <p align="justify">
 Projeto de uma pokedex para desenvolver meus conhecimentos em , HTML, CSS, JavaScript Git.
+
+   ### 
+   
+![image](https://user-images.githubusercontent.com/95880342/159194637-07dbbc2f-52b4-4ccf-b877-9c24ec2b94c3.png)
+
+   ### 
    
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Realizar de maneira agradável a apresentação de um site institucional visando uma ótima experiêcia do usuário.
+:heavy_check_mark: `Funcionalidade 1:` Realizar de maneira agradável a apresentação de uma pokedex visando uma ótima experiêcia do usuário.
 
-:heavy_check_mark: `Funcionalidade 2:` Exibir de maneira intuitiva os valores e todo o conteúdo que o produto tem a oferecer para o cliente.
+:heavy_check_mark: `Funcionalidade 2:` Exibir de maneira intuitiva os valores e todo o conteúdo oferecido ao usuário.
+   
+:heavy_check_mark: `Funcionalidade 2:` Verficar o detalhamento ao clicar em cada pokemon sendo redirecionado para outra página.
 
 ###
 
 ## Ferramentas utilizadas
- 
-<img src="https://user-images.githubusercontent.com/95880342/157155360-d28b477f-156c-4d83-95b4-69799e74e512.png" alt="html" width="60"/> <img src="https://user-images.githubusercontent.com/95880342/157156290-4a862097-4109-42f8-b59c-9ce7d0c80849.png" alt="css" width="60"/>
+
+![icons8-javascript](https://user-images.githubusercontent.com/95880342/159194965-890bbb5d-c194-4ef1-a67e-70485bf3fb88.svg)
+![icons8-css3](https://user-images.githubusercontent.com/95880342/159195044-c80569d8-ea4c-4b03-9ac0-82cc5b16777b.svg)
+![icons8-html-5](https://user-images.githubusercontent.com/95880342/159195130-bb7af11a-f80b-4374-b132-ac02d6e902cf.svg)
+![icons8-nodejs](https://user-images.githubusercontent.com/95880342/159195158-dee2e249-2d09-48a9-b976-37fc52174304.svg)
+![icons8-git](https://user-images.githubusercontent.com/95880342/159195173-5e598803-c045-4721-93eb-d9503b142ed9.svg)
 
 ###
 
